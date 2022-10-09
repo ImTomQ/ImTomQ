@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Tom. I'm a software developer at Vietnam. <br />
+I love JavaScript programing language and study new things.
+
 <!--
 **imtomq/imtomq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
