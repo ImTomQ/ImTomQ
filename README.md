@@ -3,6 +3,11 @@
 My name is Tom. I'm a software developer at Vietnam. <br />
 I love JavaScript programing language and study new things.
 
+<img src="https://img.shields.io/github/followers/imtomq?style=social" />
+<img src="https://img.shields.io/github/stars/imtomq?color=C98474&logoColor=874C62&style=for-the-badge" />
+<img src="https://img.shields.io/twitter/url?color=C98474&style=social&url=https%3A%2F%2Ftwitter.com%2Fquien_dev" />
+<a href=https://twitter.com/quien_dev/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>
+
 <!--
 **imtomq/imtomq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
